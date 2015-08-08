@@ -1,0 +1,23 @@
+# Site settings
+title: Google CSSI Curriculum
+email: cssi@google.com
+description: > # does it not work?
+  The Computer Science Summer Institute is a three week program for rising college
+  freshmen starting a degree in Computer Science or a related field. This site
+  houses the curriculum for the three week course.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+permalink: /:title
+collections:
+  lessons:
+      output: true
+      defaults:
+        values:
+          layout: post
+
+# Build settings
+markdown: redcarpet
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
