@@ -1,13 +1,13 @@
 ---
   layout: post
-  title: 0-past-projects
-  language: 
+  title: Past Projects
+  language: project-mode
 ---
-#  Past CSSI Projects
+# TODO - replace sample projects
 
-Take a look through what students were able to create at CSSI last year. Start thinking about what you will want to create with your time here. 
+Take a look through what students were able to create at CSSI last year. Start thinking about what you will want to create with your time here.
 
-Your webapp project will need to collect information from the user, process that information, and return a new result. The possibilites are endless. During the first two weeks you'll learn the foundational skills to make sure you're ready to build. The third week is project mode and your chance to build something great - or at least learn a lot by attempting to. Take a look at the past projects to help inform and inspire you. 
+Your webapp project will need to collect information from the user, process that information, and return a new result. The possibilites are endless. During the first two weeks you'll learn the foundational skills to make sure you're ready to build. The third week is project mode and your chance to build something great - or at least learn a lot by attempting to. Take a look at the past projects to help inform and inspire you.
 
 ###  The Projects
 * [CSSI+](https://cssiplus.appspot.com/)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to the Command Line
-language: bash
+language: command-line
 ---
 
 # Prior Knowledge:
